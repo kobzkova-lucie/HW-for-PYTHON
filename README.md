@@ -1,2 +1,2 @@
 # HW-for-PYTHON
-homeworks
+My homeworks for Python to Data Academy
